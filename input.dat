@@ -1,0 +1,8 @@
+9834      	! seed 
+16		! 2*unit cell dim
+-1.0d0            ! hopping
+16.0 	! Ua
+16.0        ! Ub
+16.0        ! Uc
+0.50d0            ! filling
+0.500d0        ! lambda 
