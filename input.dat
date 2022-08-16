@@ -1,5 +1,5 @@
 9834      	! seed 
-8		! 2*unit cell dim
+16		! 2*unit cell dim
 -1.0d0            ! hopping
 16.0 	! Ua
 16.0        ! Ub
