@@ -1,4 +1,4 @@
-Hartree Fock study of Hubbard model  in  two-dimensional cuprates can be studed numericaly using these codes.
+Study of Hubbard model within Hartree Fock approximation of a two-dimensional cuprates can be studed numericaly using these codes.
 
 compiler:: gfortran,mpifort
 
